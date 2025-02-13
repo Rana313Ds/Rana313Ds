@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Innovator,Sports enthusiast,tech explorer, and belive in ikiagi driven by curosity,purpose and the pursuit of meaningful impact
+Data Innovator,Sports enthusiast,tech explorer, and believer in ikigai driven by curiosity,purpose and the pursuit of meaningful impact
 
 
 # 💻 Tech Stack:
