@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Senior Data Scientist 
+Data Innovator,Sports enthusiast,tech explorer, and belive in ikiagi driven by curosity,purpose and the pursuit of meaningful impact
 
 
 # 💻 Tech Stack:
